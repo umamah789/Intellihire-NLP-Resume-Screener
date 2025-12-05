@@ -1,4 +1,4 @@
-# Intellihire-NLP-Screener
+# Intellihire-NLP-Resume Screener
 A robust Final Year Project implementing an AI-powered interactive chatbot and web application for automated resume screening, contextual matching against job descriptions (JD), and personalized candidate feedback using Natural Language Processing (NLP).
 IntelliHire: An AI-Powered Resume Analysis and Contextual Feedback System
 The IntelliHire project aims to revolutionize the initial stage of the Human Resources (HR) recruitment process by replacing manual, time-consuming resume screening with an efficient, intelligent, and unbiased automated system. This system will be deployed as a web-based interactive Chatbot and Analysis Console.
